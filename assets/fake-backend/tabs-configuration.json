@@ -1,0 +1,6 @@
+[
+  {"id": "kenny", "title": "Kenny McCormick", "order": 1, "path": "widgets/Kenny.js"},
+  {"id": "stan", "title": "Stan March", "order": 2, "path": "widgets/Stan.js"},
+  {"id": "eric", "title": "Eric Cartman", "order": 4, "path": "widgets/Eric.js"},
+  {"id": "kyle", "title": "Kyle Broflovski", "order": 3, "path": "widgets/Kyle.js"}
+]
